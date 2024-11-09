@@ -1,0 +1,5 @@
+Next, calculate the gradient and Hessian of Rosenbrock’s function. Find the minimum using gradient descent,
+Newton’s method, and the Gauss-Newton method. This should use your own algorithm implementation, ideally
+in Python. Execute this code from three different random initializations and update the 2D plot to visualize
+the convergence, similar to the one you previously displayed. Each plot should resemble the one in Figure 3.
+

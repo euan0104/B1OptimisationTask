@@ -1,0 +1,3 @@
+The first task is to visualize the function. Create both 2D and 3D plots that display the function’s values when
+sampled uniformly over the interval x ∈ [−2, 2] and y ∈ [−2, 2]. Plot the minimum, which we know to be located
+at [1, 1]. Your plot should resemble the one shown in Figures 1 and 2, respectively.

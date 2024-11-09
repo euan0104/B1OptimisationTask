@@ -1,0 +1,4 @@
+Minimize Rosenbrock’s function using the Nelder-Mead Simplex algorithm, preferably with the implementation
+in the scipy Python package. As before, execute the code from three distinct random initializations and
+visualize the convergence.
+
